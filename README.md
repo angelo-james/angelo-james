@@ -3,7 +3,7 @@ I am a fullstack software engineer located in San Francisco Bay Area
 - 🔭 Working on multiple frontend and backend projects using React and Nodejs
 - 🌱 Learning design patterns in depth
 
-## Let's 
+## Let's Connect
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajarriola)
 
 ## Expertise
